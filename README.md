@@ -13,7 +13,7 @@ After our discussion today today, I have would like to suggest some ways we can 
 
 5. We have a final meeting where we sit together 02/11/23, before class (10-12). And finalize the submission. The document should be ready for submission this day.
 
-6: **Communication** - it might be hard to ask questions and discuss theoretical things here, so if needed send a mail to everyone in the group and send a msg here, so we remember to check our mails. Otherwise, staying behind after class is a good way to have some face to face discussions on Difficulties you are facing.
+6. **Communication** - it might be hard to ask questions and discuss theoretical things here, so if needed send a mail to everyone in the group and send a msg here, so we remember to check our mails. Otherwise, staying behind after class is a good way to have some face to face discussions on Difficulties you are facing.
 
 I think these should be the ground rules. I welcome any suggestions anyone has if you feel things should be done differently.
 
