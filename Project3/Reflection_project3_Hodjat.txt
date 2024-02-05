@@ -1,7 +1,0 @@
-I gained valuable insights while working on the problem set. The process of exploring and testing more sparked additional questions, for instance when observing changes in error scaling during smaller and smaller time steps. Or having more provided data from CFD led to a curiosity to experiment with different injection protocols and assess the model's performance. I remain intrigued by the variations in fitting parameters across various injection protocols.
-
-I appreciated the flexibility of the questions, allowing me to conduct additional tests. However, I am mindful of the time constraints, as a group member rightly cautioned against delving too deep into unnecessary details. We conducted extra tests beyond the specified questions and provided explanations for them, but there's a possibility of inaccuracies. Feedback on both the main questions and the additional material would be valuable to ensure learning and understanding.
-
-
-
-
